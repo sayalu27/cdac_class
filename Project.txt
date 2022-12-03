@@ -1,0 +1,102 @@
+Project Idea no. 1
+
+Name-Shradha Basavaraj Patil 
+
+PrnNo-220980720103 
+
+Title-"ONLINE VOTING SYSTEM”
+
+Objectives-The traditional voting method can be changed to anewer and effective approach termedas mobile voting. 
+
+Future Scope-it is one of the greatest advantage for person who go outside the coutry the can voteon online by software.
+
+ Referance - 1)GanarajK ,"A+dvanced E-voting Application Using Android Platform"          IJCAXVol.4,No1/2,April2017 
+2)Chetan Sontakke, Swapnil Payghum, Shivkumar Raut"ONLINE VOTING SYSTEM VIAMOBILE"IJESCVolume7Issuexxxxxxxx2017IJES
+
+------------------------------------------------------//////--------------------------------------------------------------------------
+
+Project Idea no. 2
+
+Name- Aishwarya Sanjay Aiwale
+
+prn no- 220980720007
+
+Project Title- "Electricity Billing System"
+
+Technology used -Operating System 
+
+Objectives- The main Objective of the Project on Electricity Billing System is to manage the details of electricity,connection,meter,bill, payment.It manage all the information about Electricity,Customer, Payment, Electricity.
+
+Scope of the project- It help collecting perfect management in details.In very short time,the collection will be obvious, simple and sensible.
+
+Reference- Google for problem Solving,http:www.JSP.net/
+
+-----------------------------------------------------//////-----------------------------------------------------------------------------------
+
+Project Idea no. 3
+
+Name - Nikita Mahesh Khogare
+
+prn no - 220980720050
+
+Title- "WOMEN SAFETY DEVICE"
+
+ TECHNOLOGY USED- small smart device like smartwatch,neck jewellery,etc.
+
+OBJECTIVES - The purpose of this device ts to safeguard women in the event they might face any danger.
+
+FUTURE SCOPE- it is one of the best advantage for women and also kids who go outside alone for work or other purpose.
+ so the they can use this device for safety purpose. and this is also small in size,so easy to carry anywhere.
+
+REFERANCE - https://www.researchgate.net/publication/357748826_WOMEN_SAFETY_DEVICE_USING_IOT
+
+------------------------------------------------------///////------------------------------------------------------------------------------
+
+
+Project Idea no. 4
+
+Name - Sahil Subhash Satpute
+
+PRN - 220980720097
+
+Title - "Security Alert System"
+
+Objective - The methods of data collection, analysis and exchange of information among  enforcement          authorities engaged in public safety.
+
+Uses - Overall view our project used for protection of army/military base, state entry, 
+            hospitals, School, collages, malls, temples entry,  parking places, all VIP section.
+
+Scope - Automatic Vehicle Identification: The automatic vehicle identification (AVI) component of this 
+            System refers to the technologies that determine the identification or ownership of the vehicle.
+
+-------------------------------------------------------------/////------------------------------------------------------------------------
+
+Project Idea no. 5
+
+
+Name - Prasad Vijay Pawar
+
+Project ideas - Aoutomization In Indian Agriculture Feild
+
+Objectives - reduce human input and error
+
+The technology takes care of menial and recurring tasks
+
+allowing them to focus on more critical functions
+
+Technology - 
+Farm automation brings together agricultural machinery, computer systems,
+electronics, Chemical sensors, and data management
+
+Future Scope - By 50 from 2022, the demand for food will surge 70%,
+                            in line with rapid population growth.
+                            A UN study found that about 9.9% of the world’s population still goes hungry, 
+                            so the thought of feeding almost 10 billion mouths is a daunting prospect. 
+                            With environmental changes hard to predict, 
+                            we must turn to innovation in agriculture technology. 
+Refrence -
+1. Organization- https://masschallenge.org/
+2. Indian Goverment Policy 
+3. Foundations Which Involves In Farmers Help Or Fundraise
+
+--------------------------------------------//////////---------------------------------------------------------------------------------------
